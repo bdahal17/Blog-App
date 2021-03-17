@@ -1,7 +1,7 @@
 # SurvivingCodingBootcamp.com - A Blog
 
 Welcome to the staff of SurvivingCodingBootcamp, a blog for former students to write about how they survived their 
-coding bootcamp experience.  We have a simple blog started already, but we brought you on to make some changes.
+coding bootcamp experience.  
 
 ## There are four main topics for the blog
 #### 1. Learning TDD
